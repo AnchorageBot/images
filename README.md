@@ -10,6 +10,10 @@ MCU Pinouts for
   
     https://github.com/AnchorageBot/images/blob/master/pinoutPortentaH7.pdf
   
+  Adafruit Feather 32u4 Bluefruit
+  
+  
+  
   Adafruit Feather Huzzah ESP32 
   
   Raspberry Pi Zero
