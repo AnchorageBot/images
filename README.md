@@ -12,7 +12,7 @@ MCU Pinouts for
   
   Adafruit Feather 32u4 Bluefruit
   
-  
+    https://github.com/AnchorageBot/images/blob/master/pinoutBlueFeather32copy.png
   
   Adafruit Feather Huzzah ESP32 
   
