@@ -4,7 +4,11 @@ MCU Pinouts for
 
   Arduino Nano 33 BLE Sense
   
-  https://github.com/AnchorageBot/images/blob/master/Nano%2033%20BLE.jpg
+    https://github.com/AnchorageBot/images/blob/master/Nano%2033%20BLE.jpg
+  
+  Arduino Portenta H7
+  
+    
   
   Adafruit Feather Huzzah ESP32 
   
