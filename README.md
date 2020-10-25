@@ -8,7 +8,7 @@ MCU Pinouts for
   
   Arduino Portenta H7
   
-    
+    https://github.com/AnchorageBot/images/blob/master/pinoutPortentaH7.pdf
   
   Adafruit Feather Huzzah ESP32 
   
